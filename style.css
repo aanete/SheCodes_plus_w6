@@ -1,0 +1,31 @@
+ul {
+    list-style: none;
+    padding: 0;
+   
+}
+h2 {
+    font-size: 40px;
+}
+
+ .now {
+     font-weight: 600;
+ }
+ .nextHours {
+     font-size: larger;
+ }
+
+ .nextDays {
+     text-align: center;
+ }
+
+form {
+    padding: 20px 0;
+}
+
+.container {
+    border: 1px solid #9EA4A9;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 650px;
+    border-radius: 5px;
+}
